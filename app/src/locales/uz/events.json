@@ -1,0 +1,33 @@
+{
+  "label": "Tadbirlar",
+  "title": "Yaqinlashayotgan",
+  "titleHighlight": "tadbirlar",
+  "description": "UzEuroLaw YeI–O'zbekiston huquqiy hamkorligini rivojlantirishga qaratilgan keng ko'lamli professional va ta'lim tadbirlarini tashkil etadi va qo'llab-quvvatlaydi, jumladan xalqaro konferensiyalar, ekspert seminarlari, yumaloq stollar, ustaxonalar va tarmoq tadbirlari.",
+  "filters": {
+    "allEvents": "Barcha tadbirlar",
+    "upcoming": "Yaqinlashayotgan",
+    "past": "O'tgan",
+    "online": "Onlayn",
+    "inPerson": "Yuzma-yuz"
+  },
+  "eventTypes": "Tadbir turlari",
+  "filterByType": "Tur bo'yicha saralash:",
+  "noEvents": "Tadbirlar topilmadi",
+  "noEventsHint": "Ko'proq tadbirlarni ko'rish uchun filtrlarni o'zgartiring.",
+  "viewEvent": "Ko'rish",
+  "eventCompleted": "Tadbir tugallandi",
+  "eventSummary": "Tadbir xulosasi",
+  "photosFromEvent": "Tadbirdan {{count}} ta surat",
+  "photosFromEvent_plural": "Tadbirdan {{count}} ta surat",
+  "registerForEvent": "Tadbirga ro'yxatdan o'tish",
+  "registering": "Ro'yxatdan o'tilmoqda...",
+  "registeredSuccess": "Siz muvaffaqiyatli ro'yxatdan o'tdingiz!",
+  "alreadyRegistered": "Siz allaqachon ushbu tadbirga ro'yxatdan o'tgansiz.",
+  "networkError": "Tarmoq xatosi. Qaytadan urinib ko'ring.",
+  "formPlaceholders": {
+    "name": "Ismingiz",
+    "email": "Elektron pochtangiz",
+    "phone": "Telefon raqami",
+    "telegram": "Telegram @username (ixtiyoriy)"
+  }
+}

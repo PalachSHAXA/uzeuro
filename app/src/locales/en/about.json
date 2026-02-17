@@ -1,0 +1,63 @@
+{
+  "label": "About Us",
+  "title": "About",
+  "titleHighlight": "UzEuroLaw",
+  "paragraphs": [
+    "The Uzbek-European Law Association (UzEuroLaw) is an international non-profit professional association bringing together legal professionals from the Republic of Uzbekistan and the Member States of the European Union.",
+    "UzEuroLaw serves as a platform for professional dialogue, cooperation, and knowledge exchange between lawyers, academics, and legal experts engaged in cross-border and international legal matters involving Uzbekistan and the European Union.",
+    "The Association was officially announced on 21 November 2025 during the Uzbek Law Day held at the Embassy of the Republic of Uzbekistan in Paris, marking the beginning of a new institutional framework for EU–Uzbekistan legal cooperation.",
+    "UzEuroLaw aims to support the development of sustainable professional relationships, promote best legal practices, and contribute to the strengthening of legal frameworks underpinning economic, trade, and investment relations between Uzbekistan and Europe."
+  ],
+  "mission": {
+    "title": "Our Mission",
+    "text": "Our mission is to foster legal cooperation and mutual understanding between Uzbekistan and the European Union by connecting legal professionals, facilitating the exchange of legal knowledge and experience, and promoting best practices in cross-border and international legal matters. UzEuroLaw seeks to create an inclusive professional environment where practitioners and scholars can engage in meaningful dialogue, enhance their expertise, and contribute to the development of predictable and transparent legal systems."
+  },
+  "vision": {
+    "title": "Our Vision",
+    "text": "UzEuroLaw aspires to become a leading and authoritative platform for EU–Uzbekistan legal dialogue. Our vision is to support innovation in international legal practice, contribute to the development of robust and reliable legal frameworks, and strengthen bilateral and multilateral legal cooperation between Uzbekistan and the European Union. In the long term, UzEuroLaw aims to play an active role in shaping professional standards, supporting legal reforms through dialogue, and advancing regional and international legal cooperation."
+  },
+  "timeline": {
+    "label": "Our Journey",
+    "title": "History &",
+    "titleHighlight": "Milestones",
+    "items": [
+      {
+        "year": "2025",
+        "title": "Official Announcement — Paris",
+        "description": "The establishment of the Uzbek-European Law Association was officially announced on 21 November 2025 during the Uzbek Law Day event held at the Embassy of the Republic of Uzbekistan in Paris, marking the beginning of a new institutional framework for EU–Uzbekistan legal cooperation."
+      },
+      {
+        "year": "2026",
+        "title": "Looking Ahead",
+        "description": "UzEuroLaw continues to expand its activities, professional network, and thematic focus, with plans to develop academic partnerships, research initiatives, educational programmes, and high-level professional events across Uzbekistan and the European Union."
+      }
+    ]
+  },
+  "team": {
+    "label": "Leadership",
+    "title": "Steering",
+    "titleHighlight": "Committee",
+    "description": "UzEuroLaw is governed by a Steering Committee, which serves as the supreme governing body of the Association. During the establishment phase, the Steering Committee is composed of the Founders of UzEuroLaw and is responsible for defining the strategic direction, overseeing governance matters, and ensuring the effective development of the Association.",
+    "members": [
+      {
+        "name": "Sherzod Abdulkasimov",
+        "role": "Steering Committee Member",
+        "bio": "Founding & Co-managing Partner at PraeLegal Uzbekistan."
+      },
+      {
+        "name": "Diana Bayzakova",
+        "role": "Steering Committee Member",
+        "bio": "Director of Tashkent International Arbitration Centre."
+      },
+      {
+        "name": "Diana Tsutieva",
+        "role": "Steering Committee Member",
+        "bio": "Partner at Foley Hoag LLP."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Ready to Join Our Community?",
+    "description": "Become part of a growing network of legal professionals dedicated to strengthening EU-Uzbekistan legal cooperation."
+  }
+}

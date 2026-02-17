@@ -1,0 +1,27 @@
+{
+  "label": "Biz bilan bog'laning",
+  "title": "Biz bilan",
+  "titleHighlight": "bog'laning",
+  "description": "A'zolik, tadbirlar yoki hamkorlik haqida savollaringiz bormi? Biz yordam berishdan mamnunmiz.",
+  "email": "Elektron pochta",
+  "phone": "Telefon",
+  "mainOffice": "Asosiy ofis",
+  "addressMain": "Toshkent, O'zbekiston",
+  "addressEU": "YeI ofisi: Bryussel, Belgiya",
+  "officeHours": "Ish vaqti",
+  "hours": {
+    "monFri": "Dushanba - Juma",
+    "monFriTime": "9:00 - 18:00",
+    "sat": "Shanba",
+    "satTime": "10:00 - 14:00",
+    "sun": "Yakshanba",
+    "sunTime": "Dam olish kuni"
+  },
+  "followUs": "Ijtimoiy tarmoqlarda",
+  "sendMessage": "Bizga xabar yuboring",
+  "yourName": "Ismingiz *",
+  "emailAddress": "Elektron pochta manzili *",
+  "yourMessage": "Xabaringiz *",
+  "messageSent": "Xabar yuborildi!",
+  "messageSentDesc": "Murojaat uchun rahmat. Biz tez orada javob beramiz."
+}

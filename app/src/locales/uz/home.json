@@ -1,0 +1,110 @@
+{
+  "hero": {
+    "title1": "O'zbekiston-Yevropa",
+    "title2": "Huquqiy",
+    "title3": "Assotsiatsiyasi",
+    "subtitle": "O'zbekiston va Yevropa Ittifoqini bog'lovchi transchegaraviy va xalqaro huquqiy masalalar bilan shug'ullanuvchi huquqshunoslar, olimlar va ekspertlar o'rtasida professional muloqot, hamkorlik va bilim almashish platformasi.",
+    "stats": {
+      "estInParis": "Parijda tashkil etilgan",
+      "euMemberStates": "YeI a'zo davlatlar",
+      "founders": "Ta'sischi"
+    }
+  },
+  "mission": {
+    "label": "Bizning vazifamiz",
+    "title": "Huquqiy",
+    "titleHighlight": "hamkorlikni rivojlantirish",
+    "description": "UzEuroLaw O'zbekiston va Yevropa Ittifoqi o'rtasida huquqiy hamkorlik va o'zaro tushunishni rivojlantiradi — huquqshunoslarni birlashtiradi, huquqiy bilim va tajriba almashishga ko'maklashadi hamda transchegaraviy va xalqaro huquqiy masalalarda eng yaxshi amaliyotlarni targ'ib qiladi.",
+    "features": {
+      "crossBorder": {
+        "title": "Transchegaraviy hamkorlik",
+        "description": "YeI va O'zbekiston o'rtasida huquqiy tajriba almashish, o'zaro tushunish va hamkorlikni rivojlantirish."
+      },
+      "network": {
+        "title": "Professional tarmoq",
+        "description": "Yevropa va Markaziy Osiyo huquqshunoslari bilan karyera o'sishi va hamkorlik uchun aloqa."
+      },
+      "knowledge": {
+        "title": "Bilim almashish",
+        "description": "YeI-O'zbekiston huquqiy masalalari bo'yicha eksklyuziv konferensiyalar, seminarlar va nashrlarga kirish."
+      },
+      "career": {
+        "title": "Karyera o'sishi",
+        "description": "Huquqshunoslar uchun murabbiylik dasturlari va kasbiy rivojlanish imkoniyatlari."
+      }
+    }
+  },
+  "events": {
+    "label": "Yaqinlashayotgan tadbirlar",
+    "title": "Bizning",
+    "titleHighlight": "huquqiy mukammallik",
+    "titleEnd": "seriyamizga qo'shiling",
+    "viewAll": "Barcha tadbirlar",
+    "demoItems": [
+      {
+        "title": "Toshkent huquqiy forumi",
+        "date": "2025-yil 15-sentabr",
+        "location": "Toshkent, O'zbekiston",
+        "type": "Konferensiya"
+      },
+      {
+        "title": "YeI-O'zbekiston huquqiy ko'prigi",
+        "date": "2025-yil 22-oktabr",
+        "location": "Bryussel, Belgiya",
+        "type": "Seminar"
+      },
+      {
+        "title": "Raqamli huquq simpoziumi",
+        "date": "2025-yil 8-noyabr",
+        "location": "Onlayn",
+        "type": "Vebinar"
+      }
+    ]
+  },
+  "membershipCTA": {
+    "title": "",
+    "titleHighlight": "UZEURO",
+    "titleEnd": "ga bugun a'zo bo'ling",
+    "subtitle": "2026 yil dekabrgacha bepul a'zolik",
+    "description": "Bizning maxsus taklifimizdan foydalaning va o'sib borayotgan huquqshunoslar jamoasiga qo'shiling.",
+    "benefits": [
+      "Professional tadbirlar va ta'lim tashabbuslariga kirish",
+      "YeI va O'zbekiston huquqshunoslari bilan tarmoq o'rnatish",
+      "Vebinarlar seriyasi va onlayn ekspert sessiyalari",
+      "Bilim resurslari va kasbiy rivojlanish"
+    ],
+    "cta": "A'zolik uchun ariza topshirish"
+  },
+  "partners": {
+    "label": "Bizning hamkorlarimiz",
+    "title": "Birgalikda",
+    "titleHighlight": "ko'priklar",
+    "titleEnd": "quramiz"
+  },
+  "webinars": {
+    "label": "Vebinarlar",
+    "title": "Eng",
+    "titleHighlight": "yaxshilardan",
+    "description": "YeI–O'zbekiston hamkorligi bo'yicha dolzarb huquqiy masalalar yuzasidan onlayn ekspert sessiyalari, tajribali amaliyotchilar va olimlar tomonidan o'tkaziladi.",
+    "tracks": {
+      "all": "Barchasi",
+      "academic": "Akademik",
+      "professional": "Professional"
+    },
+    "viewAll": "Barcha vebinarlar"
+  },
+  "contact": {
+    "label": "Aloqa",
+    "title": "Biz bilan",
+    "titleHighlight": "bog'laning",
+    "description": "Savollaringiz bormi? Biz yordam berishdan mamnunmiz. Bizga xabar yuboring va biz tez orada javob beramiz.",
+    "email": "Elektron pochta",
+    "phone": "Telefon",
+    "address": "Manzil",
+    "addressMain": "Toshkent, O'zbekiston",
+    "addressEU": "YeI ofisi: Bryussel, Belgiya",
+    "followUs": "Ijtimoiy tarmoqlarda",
+    "messageSent": "Xabar yuborildi!",
+    "messageSentDesc": "Murojaat uchun rahmat. Biz tez orada javob beramiz."
+  }
+}

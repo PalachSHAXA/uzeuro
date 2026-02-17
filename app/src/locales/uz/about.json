@@ -1,0 +1,63 @@
+{
+  "label": "Biz haqimizda",
+  "title": "",
+  "titleHighlight": "UzEuroLaw",
+  "paragraphs": [
+    "O'zbekiston-Yevropa Huquqiy Assotsiatsiyasi (UzEuroLaw) — O'zbekiston Respublikasi va Yevropa Ittifoqi a'zo davlatlarining huquqshunoslarini birlashtiruvchi xalqaro notijorat kasbiy assotsiatsiya.",
+    "UzEuroLaw O'zbekiston va Yevropa Ittifoqini bog'lovchi transchegaraviy va xalqaro huquqiy masalalar bilan shug'ullanuvchi huquqshunoslar, olimlar va huquqiy ekspertlar o'rtasida professional muloqot, hamkorlik va bilim almashish platformasi bo'lib xizmat qiladi.",
+    "Assotsiatsiya 2025 yil 21 noyabrda Parijdagi O'zbekiston Respublikasi Elchixonasida bo'lib o'tgan «Uzbek Law Day» tadbirida rasman e'lon qilingan bo'lib, YeI–O'zbekiston huquqiy hamkorligining yangi institutsional asosiga asos soldi.",
+    "UzEuroLaw barqaror kasbiy munosabatlarni rivojlantirishga, eng yaxshi huquqiy amaliyotlarni targ'ib qilishga va O'zbekiston bilan Yevropa o'rtasidagi iqtisodiy, savdo va investitsiya munosabatlarini mustahkamlovchi huquqiy asoslarni kuchaytirishga ko'maklashadi."
+  ],
+  "mission": {
+    "title": "Bizning vazifamiz",
+    "text": "Bizning vazifamiz — O'zbekiston va Yevropa Ittifoqi o'rtasida huquqiy hamkorlik va o'zaro tushunishni rivojlantirish — huquqshunoslarni birlashtirish, huquqiy bilim va tajriba almashishga ko'maklashish va transchegaraviy va xalqaro huquqiy masalalarda eng yaxshi amaliyotlarni targ'ib qilish orqali. UzEuroLaw amaliyotchilar va olimlar mazmunli muloqot olib borishi, o'z malakalarini oshirishi va bashorat qilinadigan va shaffof huquqiy tizimlarni rivojlantirishga hissa qo'shishi mumkin bo'lgan inklyuziv professional muhitni yaratishga intiladi."
+  },
+  "vision": {
+    "title": "Bizning qarashmiz",
+    "text": "UzEuroLaw YeI–O'zbekiston huquqiy muloqoti uchun yetakchi va obro'li platforma bo'lishga intiladi. Bizning qarashmiz — xalqaro huquqiy amaliyotda innovatsiyalarni qo'llab-quvvatlash, mustahkam va ishonchli huquqiy asoslarni rivojlantirishga hissa qo'shish va O'zbekiston bilan Yevropa Ittifoqi o'rtasida ikki tomonlama va ko'p tomonlama huquqiy hamkorlikni mustahkamlash. Uzoq muddatli istiqbolda UzEuroLaw professional standartlarni shakllantirish, muloqot orqali huquqiy islohotlarni qo'llab-quvvatlash va mintaqaviy va xalqaro huquqiy hamkorlikni ilgari surishda faol rol o'ynashga intiladi."
+  },
+  "timeline": {
+    "label": "Bizning yo'limiz",
+    "title": "Tarix va",
+    "titleHighlight": "muhim voqealar",
+    "items": [
+      {
+        "year": "2025",
+        "title": "Rasmiy e'lon — Parij",
+        "description": "O'zbekiston-Yevropa Huquqiy Assotsiatsiyasining tashkil etilishi 2025 yil 21 noyabrda Parijdagi O'zbekiston Respublikasi Elchixonasida bo'lib o'tgan «Uzbek Law Day» tadbirida rasman e'lon qilindi va YeI–O'zbekiston huquqiy hamkorligining yangi institutsional asosiga asos soldi."
+      },
+      {
+        "year": "2026",
+        "title": "Kelajakka nazar",
+        "description": "UzEuroLaw o'z faoliyatini, professional tarmog'ini va tematik yo'nalishlarini kengaytirishda davom etmoqda — akademik hamkorliklar, tadqiqot tashabbuskori, ta'lim dasturlari va O'zbekiston hamda Yevropa Ittifoqida yuqori darajadagi professional tadbirlarni rivojlantirish rejalari bilan."
+      }
+    ]
+  },
+  "team": {
+    "label": "Rahbariyat",
+    "title": "Boshqaruv",
+    "titleHighlight": "qo'mitasi",
+    "description": "UzEuroLaw Boshqaruv qo'mitasi tomonidan boshqariladi va u Assotsiatsiyaning oliy boshqaruv organi hisoblanadi. Tashkil etish bosqichida Boshqaruv qo'mitasi UzEuroLaw Ta'sischilaridan iborat bo'lib, strategik yo'nalishni belgilash, boshqaruv masalalarini nazorat qilish va Assotsiatsiyaning samarali rivojlanishini ta'minlash uchun javobgardir.",
+    "members": [
+      {
+        "name": "Sherzod Abdulqosimov",
+        "role": "Boshqaruv qo'mitasi a'zosi",
+        "bio": "PraeLegal Uzbekiston asoschisi va hamrahbar sherigi."
+      },
+      {
+        "name": "Diana Bayzakova",
+        "role": "Boshqaruv qo'mitasi a'zosi",
+        "bio": "Toshkent Xalqaro Arbitraj Markazi direktori."
+      },
+      {
+        "name": "Diana Tsutieva",
+        "role": "Boshqaruv qo'mitasi a'zosi",
+        "bio": "Foley Hoag LLP sherigi."
+      }
+    ]
+  },
+  "cta": {
+    "title": "Jamoamizga qo'shilishga tayyormisiz?",
+    "description": "YeI-O'zbekiston huquqiy hamkorligini mustahkamlashga bag'ishlangan o'sib borayotgan huquqshunoslar tarmog'ining bir qismiga aylaning."
+  }
+}

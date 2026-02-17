@@ -1,0 +1,33 @@
+{
+  "label": "Events",
+  "title": "Upcoming",
+  "titleHighlight": "Events",
+  "description": "UzEuroLaw organises and supports a wide range of professional and educational events aimed at advancing EU–Uzbekistan legal cooperation, including international conferences, expert seminars, roundtable discussions, workshops, and networking events.",
+  "filters": {
+    "allEvents": "All Events",
+    "upcoming": "Upcoming",
+    "past": "Past",
+    "online": "Online",
+    "inPerson": "In-Person"
+  },
+  "eventTypes": "Event Types",
+  "filterByType": "Filter by event type:",
+  "noEvents": "No events found",
+  "noEventsHint": "Try adjusting your filters to see more events.",
+  "viewEvent": "View Event",
+  "eventCompleted": "Event Completed",
+  "eventSummary": "Event Summary",
+  "photosFromEvent": "{{count}} photo from this event",
+  "photosFromEvent_plural": "{{count}} photos from this event",
+  "registerForEvent": "Register for this event",
+  "registering": "Registering...",
+  "registeredSuccess": "You have been registered successfully!",
+  "alreadyRegistered": "You are already registered for this event.",
+  "networkError": "Network error. Please try again.",
+  "formPlaceholders": {
+    "name": "Your name",
+    "email": "Your email",
+    "phone": "Phone number",
+    "telegram": "Telegram @username (optional)"
+  }
+}

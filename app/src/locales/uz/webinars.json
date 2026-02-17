@@ -1,0 +1,23 @@
+{
+  "label": "Vebinarlar",
+  "title": "Ekspert",
+  "titleMiddle": "huquqiy",
+  "titleEnd": "vebinarlar",
+  "description": "UzEuroLaw turli yurisdiksiyalardagi a'zolarning keng ishtirokini ta'minlash uchun vebinarlar va onlayn ekspert sessiyalarini tashkil etadi. Vebinarlar YeI–O'zbekiston hamkorligi bo'yicha dolzarb huquqiy masalalarni qamrab oladi va tajribali amaliyotchilar hamda olimlar tomonidan o'tkaziladi.",
+  "webinarCount": "Vebinarlar",
+  "registeredCount": "Ro'yxatdan o'tganlar",
+  "upcomingWebinars": "Yaqinlashayotgan vebinarlar",
+  "tracks": {
+    "all": "Barcha vebinarlar",
+    "academic": "Akademik yo'nalish",
+    "professional": "Professional yo'nalish"
+  },
+  "loadingWebinars": "Vebinarlar yuklanmoqda...",
+  "noWebinars": "Vebinarlar topilmadi",
+  "registerForWebinar": "Vebinarga ro'yxatdan o'tish",
+  "registrationSuccessful": "Ro'yxatdan o'tish muvaffaqiyatli!",
+  "registrationSuccessDesc": "Siz ushbu vebinarga ro'yxatdan o'tdingiz. Tafsilotlar uchun elektron pochtangizni tekshiring.",
+  "fillRequiredFields": "Iltimos, barcha majburiy maydonlarni to'ldiring",
+  "alreadyRegistered": "Siz allaqachon ushbu vebinarga ro'yxatdan o'tgansiz",
+  "registrationFailed": "Ro'yxatdan o'tishda xatolik. Qaytadan urinib ko'ring."
+}

@@ -1,0 +1,110 @@
+{
+  "hero": {
+    "title1": "Uzbek-European",
+    "title2": "Law",
+    "title3": "Association",
+    "subtitle": "A platform for professional dialogue, cooperation, and knowledge exchange between lawyers, academics, and legal experts engaged in cross-border and international legal matters involving Uzbekistan and the European Union.",
+    "stats": {
+      "estInParis": "Est. in Paris",
+      "euMemberStates": "EU Member States",
+      "founders": "Founders"
+    }
+  },
+  "mission": {
+    "label": "Our Mission",
+    "title": "Fostering Legal",
+    "titleHighlight": "Cooperation",
+    "description": "UzEuroLaw fosters legal cooperation and mutual understanding between Uzbekistan and the European Union by connecting legal professionals, facilitating the exchange of legal knowledge and experience, and promoting best practices in cross-border and international legal matters.",
+    "features": {
+      "crossBorder": {
+        "title": "Cross-Border Collaboration",
+        "description": "Legal expertise exchange between EU and Uzbekistan, fostering mutual understanding and cooperation."
+      },
+      "network": {
+        "title": "Professional Network",
+        "description": "Connect with legal professionals across Europe and Central Asia for career advancement and collaboration."
+      },
+      "knowledge": {
+        "title": "Knowledge Sharing",
+        "description": "Access exclusive conferences, seminars, and publications on EU-Uzbekistan legal matters."
+      },
+      "career": {
+        "title": "Career Growth",
+        "description": "Mentorship programs and professional development opportunities for legal practitioners."
+      }
+    }
+  },
+  "events": {
+    "label": "Upcoming Events",
+    "title": "Join Our",
+    "titleHighlight": "Legal Excellence",
+    "titleEnd": "Series",
+    "viewAll": "View All Events",
+    "demoItems": [
+      {
+        "title": "Tashkent Legal Forum",
+        "date": "September 15, 2025",
+        "location": "Tashkent, Uzbekistan",
+        "type": "Conference"
+      },
+      {
+        "title": "EU-Uzbekistan Legal Bridge",
+        "date": "October 22, 2025",
+        "location": "Brussels, Belgium",
+        "type": "Seminar"
+      },
+      {
+        "title": "Digital Law Symposium",
+        "date": "November 8, 2025",
+        "location": "Online",
+        "type": "Webinar"
+      }
+    ]
+  },
+  "membershipCTA": {
+    "title": "Join",
+    "titleHighlight": "UZEURO",
+    "titleEnd": "Today",
+    "subtitle": "Free membership until December 2026",
+    "description": "Take advantage of our special launch offer and join our growing community of legal professionals.",
+    "benefits": [
+      "Access to professional events and educational initiatives",
+      "Network with legal professionals across EU and Uzbekistan",
+      "Webinar series and online expert sessions",
+      "Knowledge resources and professional development"
+    ],
+    "cta": "Apply for Membership"
+  },
+  "partners": {
+    "label": "Our Partners",
+    "title": "Building",
+    "titleHighlight": "Bridges",
+    "titleEnd": "Together"
+  },
+  "webinars": {
+    "label": "Webinars",
+    "title": "Learn from the",
+    "titleHighlight": "Best",
+    "description": "Online expert sessions on topical legal issues related to EU–Uzbekistan cooperation, delivered by experienced practitioners and academics.",
+    "tracks": {
+      "all": "All",
+      "academic": "Academic",
+      "professional": "Professional"
+    },
+    "viewAll": "View All Webinars"
+  },
+  "contact": {
+    "label": "Contact",
+    "title": "Get in",
+    "titleHighlight": "Touch",
+    "description": "Have questions? We'd love to hear from you. Send us a message and we'll respond as soon as possible.",
+    "email": "Email",
+    "phone": "Phone",
+    "address": "Address",
+    "addressMain": "Tashkent, Uzbekistan",
+    "addressEU": "EU Office: Brussels, Belgium",
+    "followUs": "Follow Us",
+    "messageSent": "Message Sent!",
+    "messageSentDesc": "Thank you for reaching out. We'll get back to you shortly."
+  }
+}

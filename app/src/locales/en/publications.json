@@ -1,0 +1,15 @@
+{
+  "label": "Publications",
+  "title": "Legal",
+  "titleHighlight": "Publications",
+  "description": "UzEuroLaw supports the preparation and dissemination of professional and analytical materials, including research papers, expert opinions, policy notes, and event-related publications focusing on EU–Uzbekistan legal relations, international and comparative law, regulatory developments, and best practices in cross-border legal cooperation.",
+  "categories": {
+    "all": "All",
+    "articles": "Articles",
+    "research": "Research",
+    "reports": "Reports",
+    "newsletters": "Newsletters"
+  },
+  "loadingPublications": "Loading publications...",
+  "noPublications": "No publications found"
+}

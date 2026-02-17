@@ -1,0 +1,23 @@
+{
+  "label": "Webinars",
+  "title": "Expert-Led",
+  "titleMiddle": "Legal",
+  "titleEnd": "Webinars",
+  "description": "UzEuroLaw organises webinars and online expert sessions to ensure broad participation of Members across different jurisdictions. Webinars cover topical legal issues related to EU–Uzbekistan cooperation and are delivered by experienced practitioners and academics.",
+  "webinarCount": "Webinars",
+  "registeredCount": "Registered",
+  "upcomingWebinars": "Upcoming Webinars",
+  "tracks": {
+    "all": "All Webinars",
+    "academic": "Academic Track",
+    "professional": "Professional Track"
+  },
+  "loadingWebinars": "Loading webinars...",
+  "noWebinars": "No webinars found",
+  "registerForWebinar": "Register for Webinar",
+  "registrationSuccessful": "Registration Successful!",
+  "registrationSuccessDesc": "You have been registered for this webinar. Check your email for details.",
+  "fillRequiredFields": "Please fill in all required fields",
+  "alreadyRegistered": "You are already registered for this webinar",
+  "registrationFailed": "Registration failed. Please try again."
+}

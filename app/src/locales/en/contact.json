@@ -1,0 +1,27 @@
+{
+  "label": "Contact Us",
+  "title": "Get in",
+  "titleHighlight": "Touch",
+  "description": "Have questions about membership, events, or partnerships? We'd love to hear from you.",
+  "email": "Email",
+  "phone": "Phone",
+  "mainOffice": "Main Office",
+  "addressMain": "Tashkent, Uzbekistan",
+  "addressEU": "EU Office: Brussels, Belgium",
+  "officeHours": "Office Hours",
+  "hours": {
+    "monFri": "Monday - Friday",
+    "monFriTime": "9:00 AM - 6:00 PM",
+    "sat": "Saturday",
+    "satTime": "10:00 AM - 2:00 PM",
+    "sun": "Sunday",
+    "sunTime": "Closed"
+  },
+  "followUs": "Follow Us",
+  "sendMessage": "Send us a Message",
+  "yourName": "Your Name *",
+  "emailAddress": "Email Address *",
+  "yourMessage": "Your Message *",
+  "messageSent": "Message Sent!",
+  "messageSentDesc": "Thank you for reaching out. We'll get back to you shortly."
+}

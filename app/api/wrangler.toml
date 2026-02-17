@@ -1,0 +1,16 @@
+name = "uzeuro-api"
+main = "index.js"
+compatibility_date = "2024-01-01"
+
+[[d1_databases]]
+binding = "DB"
+database_name = "uzeuro-db"
+database_id = "36163f5b-daad-4733-82bb-e32d33ebb293"
+
+[[kv_namespaces]]
+binding = "IMAGES"
+id = "13d387ddeee34026956cfcdbdb700421"
+
+[[kv_namespaces]]
+binding = "FILES"
+id = "414f704ee0f94b00a60dc5d2ff50cff4"

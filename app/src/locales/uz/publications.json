@@ -1,0 +1,15 @@
+{
+  "label": "Nashrlar",
+  "title": "Huquqiy",
+  "titleHighlight": "nashrlar",
+  "description": "UzEuroLaw professional va tahliliy materiallarni tayyorlash va tarqatishga ko'maklashadi, jumladan tadqiqot ishlari, ekspert xulosalari, siyosat eslatmalari va YeI–O'zbekiston huquqiy munosabatlari, xalqaro va qiyosiy huquq, tartibga soluvchi o'zgarishlar va transchegaraviy huquqiy hamkorlikning eng yaxshi amaliyotlariga bag'ishlangan nashrlar.",
+  "categories": {
+    "all": "Barchasi",
+    "articles": "Maqolalar",
+    "research": "Tadqiqotlar",
+    "reports": "Hisobotlar",
+    "newsletters": "Axborotnomalar"
+  },
+  "loadingPublications": "Nashrlar yuklanmoqda...",
+  "noPublications": "Nashrlar topilmadi"
+}

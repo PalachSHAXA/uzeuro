@@ -1,0 +1,381 @@
+{
+  "label": "A'zolik",
+  "title": "",
+  "titleHighlight": "A'zo",
+  "description": "A'zolik YeI–O'zbekiston huquqiy hamkorligi va xalqaro huquqiy amaliyotga qiziqqan huquqshunoslar, olimlar va ekspertlarga ochiq. A'zolar professional tadbirlar, ta'lim tashabbuskori, tarmoq imkoniyatlari va Assotsiatsiyaning bilim resurslariga kirish huquqini oladi.",
+  "chooseTier": {
+    "title": "A'zolik",
+    "titleHighlight": "toifasini",
+    "titleEnd": "tanlang",
+    "description": "Professional maqomingizga eng mos keladigan a'zolik toifasini tanlang."
+  },
+  "tiers": {
+    "full": {
+      "title": "To'liq a'zolik",
+      "description": "YeI yoki O'zbekistonda amaliyot yurituvchi malakali huquqshunoslar uchun",
+      "features": [
+        "Barcha tadbir va vebinarlarga kirish",
+        "Tarmoq imkoniyatlari",
+        "Kasbiy rivojlanish resurslari",
+        "Assotsiatsiya ishlarida ovoz berish huquqi",
+        "Murabbiylik dasturlariga ustuvor kirish"
+      ]
+    },
+    "associate": {
+      "title": "Assotsiatsiyalangan a'zolik",
+      "description": "Boshqa yurisdiksiyalardagi huquqshunoslar uchun",
+      "features": [
+        "Tanlangan tadbirlarga kirish",
+        "Vebinarlar seriyasiga kirish",
+        "Professional tarmoqqa kirish",
+        "Axborot byulleteniga obuna",
+        "Karyera rivojlanish resurslari"
+      ]
+    },
+    "academic": {
+      "title": "Akademik a'zolik",
+      "description": "Professorlar, tadqiqotchilar va talabalar uchun",
+      "features": [
+        "Akademik konferensiyalarga kirish",
+        "Tadqiqot hamkorligi imkoniyatlari",
+        "Talabalar uchun murabbiylik dasturlari",
+        "Ta'lim resurslari",
+        "Nashr imkoniyatlari"
+      ]
+    },
+    "honorary": {
+      "title": "Faxriy a'zolik",
+      "description": "Taniqli shaxslar — faqat taklif bilan",
+      "features": [
+        "Barcha a'zolik imtiyozlari",
+        "VIP tadbir kirish",
+        "Maslahat berish imkoniyatlari",
+        "Nashrlarda tan olinish",
+        "Umrbod assotsiatsiya imtiyozlari"
+      ]
+    }
+  },
+  "pricing": {
+    "free": "Bepul",
+    "untilDec2026": "2026 yil dekabrgacha",
+    "na": "N/A",
+    "lifetime": "Umrbod"
+  },
+  "benefits": {
+    "title": "A'zolik imtiyozlari",
+    "items": [
+      { "title": "Eksklyuziv tadbirlar", "desc": "Konferensiyalar, seminarlar va tarmoq tadbirlariga kirish" },
+      { "title": "Professional tarmoq", "desc": "YeI va O'zbekiston huquqshunoslari bilan aloqa" },
+      { "title": "Vebinarlar seriyasi", "desc": "Asosiy huquqiy mavzular bo'yicha oylik ekspert sessiyalari" },
+      { "title": "Murabbiylik", "desc": "Karyera maslahatlari va kasbiy rivojlanish imkoniyatlari" },
+      { "title": "Nashrlar", "desc": "Tadqiqotlar, axborot byulletenlari va huquqiy yangiliklar" },
+      { "title": "Karyera qo'llab-quvvatlash", "desc": "Ish o'rinlari va kasbiy rivojlanish resurslari" }
+    ]
+  },
+  "regulations": {
+    "label": "Rasmiy hujjat",
+    "title": "A'zolik",
+    "titleHighlight": "nizomi",
+    "description": "O'zbekiston-Yevropa Huquqiy Assotsiatsiyasi Boshqaruv qo'mitasi tomonidan qabul qilingan. UzEuroLaw a'zoligini tartibga soluvchi to'liq tuzilma.",
+    "keyFacts": {
+      "free": "Bepul",
+      "freeLabel": "2026 yil dekabrgacha",
+      "categories": "4",
+      "categoriesLabel": "A'zolik toifalari",
+      "areas": "7",
+      "areasLabel": "Amaliyot sohalari",
+      "articles": "32",
+      "articlesLabel": "12 bo'limda moddalar"
+    },
+    "footer": "Ushbu A'zolik nizomi UzEuroLaw Boshqaruv qo'mitasining bir ovozdan qarori bilan tantanali ravishda qabul qilingan bo'lib, zarur deb topilganda o'zgartirishlar kiritilishi mumkin.",
+    "sections": [
+      {
+        "number": "I",
+        "title": "Umumiy qoidalar",
+        "content": [
+          "Modda 1. Predmet va asosiy tamoyillar",
+          "O'zbekiston-Yevropa Huquqiy Assotsiatsiyasi (keyingi o'rinlarda \"UzEuroLaw\" yoki \"Assotsiatsiya\" deb yuritiladi) — O'zbekiston Respublikasi va Yevropa Ittifoqi a'zo davlatlari huquqshunoslari va huquq mutaxassislari o'rtasida hamkorlikni rivojlantirish va professional aloqalarni mustahkamlash maqsadida tashkil etilgan notijorat xalqaro professional assotsiatsiya hisoblanadi.",
+          "Assotsiatsiyaning vazifasi — ikkala mintaqaning huquq mutaxassislarini birlashtirish, huquqiy bilim va professional tajriba almashishni osonlashtirish hamda transchegaraviy va xalqaro huquqiy masalalarda ilg'or amaliyotlarni targ'ib qilish orqali O'zbekiston Respublikasi va Yevropa Ittifoqi a'zo davlatlari o'rtasida huquqiy hamkorlik va o'zaro tushunishni rivojlantirishdir.",
+          "UzEuroLaw Yevropa Ittifoqi va O'zbekiston o'rtasidagi huquqiy muloqotning yetakchi va nufuzli platformasiga aylanishga intiladi, xalqaro huquqiy amaliyotda innovatsiyalarga, mustahkam, bashorat qilinadigan va shaffof huquqiy tizimlarni rivojlantirishga hamda ikki tomonlama va ko'p tomonlama huquqiy hamkorlikni mustahkamlashga hissa qo'shadi.",
+          "UzEuroLaw o'z maqsadlariga professional va ta'lim tadbirlarini, malaka oshirish dasturlarini, ekspert muhokamalarini, ilmiy-tadqiqot tashabbuslarini tashkil etish hamda a'zolar o'rtasida tajriba va huquqiy bilim almashishni osonlashtirish orqali erishadi.",
+          "Uzoq muddatli strategik rivojlanish yo'lida Assotsiatsiya universitetlar va ilmiy-tadqiqot muassasalari bilan akademik hamkorlik va sheriklikni rivojlantirish, ilmiy-tahliliy loyihalarni boshlash hamda YeI–O'zbekiston munosabatlariga tegishli ikki tomonlama va mintaqaviy huquqiy bazalarni ishlab chiqish va muhokama qilishda ishtirok etish orqali faoliyat doirasini kengaytirishga intiladi.",
+          "Ushbu A'zolik nizomi UzEuroLaw a'zoligiga qabul qilish va a'zolikni tugatish tartibini belgilaydi, a'zolik toifalarini o'rnatadi, a'zolarning huquq va majburiyatlarini aniqlaydi hamda Assotsiatsiyaning ichki a'zolik boshqaruvi tartiblarini tartibga soladi.",
+          "UzEuroLaw professionallik va eng yuqori axloqiy standartlarga qat'iy rioya qilish, tenglik va kamsitmaslik, turli huquqiy tizimlar, professional madaniyatlar va an'analarga o'zaro hurmat, boshqaruv va a'zolik tartiblarida shaffoflik hamda xalqaro hamkorlikka ochiqlik tamoyillari asosida faoliyat yuritadi.",
+          "Assotsiatsiya O'zbekiston va Yevropa Ittifoqi o'rtasida huquqiy amaliyot, huquqiy ta'lim, ilmiy tadqiqot va kasbiy rivojlanish sohalarida uzoq muddatli huquqiy hamkorlikni qo'llab-quvvatlashga mo'ljallangan professional platforma sifatida faoliyat ko'rsatadi.",
+          "UzEuroLaw tashkil etilishining dastlabki davrida, Assotsiatsiya a'zoligi 2026-yil 1-yanvardan 2026-yil 31-dekabrgacha bepul taqdim etiladi, bu ta'sischilarning xalqaro professional hamjamiyat o'sishini qo'llab-quvvatlashga sodiqligini ta'kidlaydi."
+        ]
+      },
+      {
+        "number": "II",
+        "title": "A'zolik toifalari",
+        "content": [
+          "Modda 2. A'zolikning ko'lami va xalqaro xususiyati",
+          "UzEuroLaw a'zoligi Assotsiatsiyaning xalqaro va transchegaraviy xususiyatini aks ettiradi hamda O'zbekiston va Yevropa Ittifoqining bir qancha a'zo davlatlaridan kelgan huquq mutaxassislarini birlashtiradi.",
+          "Assotsiatsiya a'zoligi YeI–O'zbekiston huquqiy masalalari, transchegaraviy bitimlar, nizolarni hal etish, tartibga solish talablariga rioya qilish va qiyosiy huquqshunoslik bilan shug'ullanuvchi amaliyotchilar, akademiklar va ekspertlarni qamrab oluvchi professional tarmoq shakllanishini qo'llab-quvvatlaydi.",
+          "Modda 3. A'zolik turlari",
+          "UzEuroLaw quyidagi a'zolik toifalarini belgilaydi: To'liq a'zolik; Assotsiatsiyalangan a'zolik; Akademik a'zolik; Faxriy a'zolik. Har bir toifaning mezonlari, huquqlar doirasi va muvofiqlik talablari ushbu Nizomda belgilangan.",
+          "Modda 4. To'liq a'zolik",
+          "To'liq a'zolik UzEuroLaw da ishtirok etishning eng yuqori shakli bo'lib, O'zbekiston Respublikasi yoki Yevropa Ittifoqida kasbiy faoliyat yuritish huquqiga ega tegishli malakaga ega huquq kasbi vakillariga beriladi. Bu toifaga amaliyotchi advokatlar, barristerlar, solisitorlar hamda ko'rsatilgan yurisdiksiyalarning sud hokimiyati va boshqa huquqiy kasb vakillari kiradi.",
+          "To'liq a'zolar UzEuroLaw tadbirlari va axborot resurslaridan foydalanishning barcha huquqlaridan bahramand bo'ladilar. To'liq a'zolar Boshqaruv qo'mitasiga saylanishi mumkin.",
+          "Modda 5. Assotsiatsiyalangan a'zolik",
+          "Assotsiatsiyalangan a'zolik O'zbekiston-Yevropa Ittifoqi huquqiy hamkorligini rivojlantirishga faol qiziqish bildirgan boshqa yurisdiksiyalardan kelgan huquq kasbi vakillariga mo'ljallangan. Bu toifaga xalqaro kompaniyalarning korporativ huquqshunoslari ham kiradi, ularning faoliyati xalqaro operatsiyalarni huquqiy ta'minlash bilan bog'liq.",
+          "Assotsiatsiyalangan a'zolar UzEuroLaw ning barcha tadbirlarida ishtirok etish va assotsiatsiyaning axborot resurslaridan foydalanish huquqiga ega, biroq rasmiy yig'ilishlarda ovoz berish huquqiga ega emaslar va boshqaruv organlariga saylanishlari mumkin emas.",
+          "Modda 6. Akademik a'zolik",
+          "Akademik a'zolik ilmiy va ta'lim hamjamiyatining hurmatli vakillariga beriladi, jumladan huquq professorlari, tadqiqotchilar hamda huquqshunoslik fakultetlari va huquq maktablari talabalariga. O'zbekiston Respublikasi yoki Yevropa Ittifoqining huquqiy tizimlarini o'rganish, qiyosiy huquqshunoslik yoki xalqaro huquqning turli jihatlari bilan shug'ullanuvchi olimlariga alohida e'tibor qaratiladi.",
+          "Akademik a'zolar UzEuroLaw ning ixtisoslashtirilgan ta'lim dasturlarida ishtirok etish, ilmiy tadbirlarda ishtirok etish uchun imtiyozli shartlar, tadqiqot resurslaridan foydalanish hamda ilmiy tadqiqot natijalarini assotsiatsiya nashrlarida chop etish huquqini oladilar.",
+          "Modda 7. Faxriy a'zolik",
+          "Faxriy a'zolik huquq fani, huquqiy amaliyot yoki O'zbekiston va Yevropa Ittifoqi o'rtasidagi xalqaro huquqiy hamkorlikni rivojlantirishga ulkan hissa qo'shgan shaxslarga berilishi mumkin.",
+          "Faxriy a'zolik berish to'g'risidagi qaror faqat Boshqaruv qo'mitasi tomonidan qabul qilinadi."
+        ]
+      },
+      {
+        "number": "III",
+        "title": "Malaka talablari",
+        "content": [
+          "Modda 8. To'liq a'zolik talablari",
+          "O'zbekiston-Yevropa Huquqiy Assotsiatsiyasida To'liq a'zolikni olish uchun nomzod O'zbekiston Respublikasi yoki Yevropa Ittifoqining a'zo davlatida huquqiy amaliyot yuritish huquqini beruvchi amaldagi kasbiy malakaga ega bo'lishi kerak.",
+          "To'liq a'zolik, jumladan, advokatlarga, yuristlarga, solisitorlarga, barristerlarga, avokatlarga va tegishli yurisdiksiyalardagi huquq kasbining boshqa tan olingan vakillariga, shuningdek, tegishli kasbiy qoidalarga rioya qilgan holda sudyalar, hakamlar va boshqa huquq mutaxassislariga berilishi mumkin.",
+          "To'liq a'zolik uchun majburiy shart — kasbiy va axloqiy standartlarga qat'iy rioya qilish hamda jiddiy intizomiy jazo yoki kasbiy qoidabuzarlikning yo'qligi.",
+          "Modda 9. Assotsiatsiyalangan a'zolik talablari",
+          "Assotsiatsiyalangan a'zolik huquqiy ta'limga yoki huquq sohasida sezilarli kasbiy tajribaga ega, huquqiy masalalar va xalqaro huquqiy amaliyotni yaxshi tushunadigan shaxslarga berilishi mumkin.",
+          "Assotsiatsiyalangan a'zolik uchun nomzodlar YeI–O'zbekiston huquqiy hamkorligiga chinakam kasbiy qiziqishini namoyish etishlari kerak, bu ularning kasbiy faoliyati, tadqiqotlari, nashrlari, transchegaraviy loyihalardagi ishtiroki yoki kasbiy rivojlanish rejalari bilan tasdiqlanishi mumkin.",
+          "Amaldagi UzEuroLaw a'zosining tavsiyasi ariza qo'llab-quvvatlash sifatida hisobga olinishi mumkin, biroq majburiy talab bo'lmaydi.",
+          "Modda 10. Akademik a'zolik talablari",
+          "Akademik a'zolik uchun huquq yoki tegishli fanlar bo'yicha ilmiy daraja yoki akkreditatsiyalangan ta'lim muassasasida joriy o'qishni tasdiqlovchi hujjat talab qilinadi.",
+          "Professorlar va tadqiqotchilar tegishli ta'lim muassasasi yoki ilmiy tashkilotdan o'z akademik maqomini tasdiqlovchi hujjatni taqdim etishlari kerak.",
+          "Talabalar joriy o'qish, kurs va ixtisosligini ko'rsatuvchi ma'lumotnoma taqdim etadilar."
+        ]
+      },
+      {
+        "number": "IV",
+        "title": "Qabul qilish tartibi",
+        "content": [
+          "Modda 11. A'zolik uchun ariza",
+          "UzEuroLaw a'zoligiga arizalar faqat Assotsiatsiyaning UZEURO.COM rasmiy veb-sayti orqali tegishli elektron shaklni to'ldirish yo'li bilan topshiriladi, bu tartibning yagonaligini va hujjatlarni samarali qayta ishlashni ta'minlaydi. Muqobil usul — rasmiy tasdiqlangan shakl yordamida UzEuroLaw Kotibligi elektron pochtasiga ariza yuborishdir.",
+          "Istisno hollarda, UzEuroLaw ning rasmiy tadbirlarida yozma arizalar topshirilishiga ruxsat beriladi, keyinchalik Kotiblik tomonidan hujjatlar elektron formatga o'tkaziladi va hujjat aylanishining yagonaligi ta'minlanadi.",
+          "Nomzodlarga ko'rib chiqish jarayonini osonlashtirish uchun barcha ma'lumotlarni ingliz tilida taqdim etish tavsiya etiladi, zarur hollarda malakali tarjimonlar tomonidan bajarilgan hujjatlar tarjimasini ilova qilish kerak.",
+          "Har bir a'zolik toifasi uchun talab qilinadigan hujjatlar ro'yxati tegishli ariza shaklida ko'rsatiladi va UzEuroLaw ning rasmiy veb-saytida joylashtiriladi.",
+          "Qabul tartibi, a'zolik mezonlari va a'zolik to'lovlari tuzilmasi keyingi yil uchun Boshqaruv qo'mitasi tomonidan o'zgartirilishi va belgilanishi mumkin. Har qanday bunday o'zgarishlar qabul qilingandan va ushbu Nizomga kiritilgandan so'ng UzEuroLaw ning rasmiy veb-saytida e'lon qilinadi.",
+          "Modda 12. Ko'rib chiqish va qaror qabul qilish",
+          "Kotiblik arizalarni dastlabki ko'rib chiqish va ro'yxatga olishni amalga oshiradi hamda ularni Boshqaruv qo'mitasiga taqdim etadi.",
+          "Boshqaruv qo'mitasi a'zolik arizalarini muntazam ravishda ko'rib chiqadi va oddiy ko'pchilik ovoz bilan qaror qabul qiladi.",
+          "Qarorlar kasbiy malaka, obro', axloqiy standartlarga muvofiqlik va Assotsiatsiya maqsadlariga potentsial hissa asosida qabul qilinadi.",
+          "Boshqaruv qo'mitasining samarali faoliyatini ta'minlash uchun aniq tartibiy muddatlar belgilangan. A'zolik arizalari joriy davrda ko'rib chiqilishi uchun har bir chorakning oxirgi oyining 15-kunidan kechiktirmay topshirilishi kerak. Qo'mita barcha arizalarni chorak tugaganidan keyin 30 kun ichida ko'rib chiqadi va qarorlar to'g'risidagi xabarnomalar nomzodlarga yig'ilishdan keyin yetti kun ichida yuboriladi."
+        ]
+      },
+      {
+        "number": "V",
+        "title": "A'zolarning huquq va majburiyatlari",
+        "content": [
+          "Modda 13. A'zolarning huquqlari",
+          "A'zolik toifasidan qat'i nazar, barcha UzEuroLaw a'zolari Assotsiatsiya faoliyatida ishtirok etish uchun teng imkoniyatlardan foydalanadilar, jumladan nufuzli konferensiyalar, seminarlar, davra suhbatlari va ixtisoslashtirilgan ta'lim dasturlarida. Har bir a'zoga UzEuroLaw ning keng ko'lamli axborot resurslari va qimmatli nashrlaridan, jumladan tahliliy sharhlar, tadqiqot materiallari va kasbiy qo'llanmalardan to'liq foydalanish huquqi beriladi.",
+          "A'zolar Assotsiatsiyaning rasmiy veb-saytidagi onlayn a'zolar katalogida o'z kasbiy profillarini joylashtirish imkoniyatiga ega bo'ladilar, bu kasbiy aloqalarni rivojlantirish va ishbilarmonlik munosabatlarini kengaytirishga yordam beradi. A'zolar shuningdek, o'z kasbiy faoliyatida UzEuroLaw a'zosi sifatidagi hurmatli maqomiga murojaat qilish huquqiga ega, jumladan rezyume, tashrif qog'ozlari va rasmiy yozishmalarida a'zolikni ko'rsatish.",
+          "UzEuroLaw tadbirlarining barcha ishtirokchilari rasmiy ishtirok sertifikatlarini oladilar, ular tegishli yurisdiksiyalarda uzluksiz kasbiy ta'lim dasturlarining bir qismi sifatida tan olinishi mumkin.",
+          "To'liq a'zolar shuningdek Assotsiatsiyaning eksklyuziv kasbiy dasturlari va yangi tashabbuslaridan ustuvor foydalanish huquqiga ega.",
+          "Akademik a'zolar ta'lim dasturlarida ishtirok etish uchun imtiyozli shartlardan, jumladan maxsus chegirmalar va ustuvor ro'yxatga olishdan foydalanadilar. Ularga UzEuroLaw ning akademik va ilmiy-tadqiqot resurslaridan kengaytirilgan foydalanish huquqi, shuningdek, taqrizdan o'tgan holda o'z tadqiqot natijalarini Assotsiatsiyaning rasmiy nashrlarida chop etish imkoniyati beriladi.",
+          "Modda 14. A'zolarning majburiyatlari",
+          "O'zbekiston-Yevropa Huquqiy Assotsiatsiyasida a'zolik ushbu A'zolik nizomiga, Assotsiatsiya Ustaviga va ularga muvofiq qabul qilingan barcha ichki siyosatlarga rioya qilish majburiyatini nazarda tutadi. A'zolar kasbiy axloq va halollikning eng yuqori standartlariga mos ravishda harakat qilishlari va Assotsiatsiyada ishtirokidan olingan ommaviy bo'lmagan ma'lumotlar maxfiyligini saqlashlari kerak.",
+          "A'zolar Assotsiatsiya doirasida taqdim etilgan huquqiy tizimlar, kasbiy amaliyotlar va madaniy an'analar xilma-xilligini hurmat qilishlari hamda konstruktiv muloqot, o'zaro ishonch va kasbiy hamkorlik muhitiga hissa qo'shishlari kerak. A'zolardan UzEuroLaw maqsadlarini qo'llab-quvvatlash va Assotsiatsiya obro'siga salbiy ta'sir ko'rsatishi mumkin bo'lgan har qanday xatti-harakatdan tiyilish kutiladi.",
+          "A'zolar uzluksiz ta'lim olish, huquqiy amaliyotdagi o'zgarishlardan xabardor bo'lish va iloji boricha kasbiy rivojlanish tadbirlarida qatnashish orqali tegishli kasbiy malaka darajasini saqlab turishlari kerak. A'zolar o'z yurisdiksiyalaridagi barcha amaldagi huquqiy va tartibga solish talablariga rioya qilishlari va manfaatlar to'qnashuvini aniqlash va oldini olish uchun oqilona choralar ko'rishlari kerak.",
+          "UzEuroLaw faoliyatida ishtirok etish doirasida a'zolar halol va mas'uliyatli harakat qilishlari, aloqa va kasbiy ma'lumotlarini yangilab turishlari, oqilona darajada imkon qadar Assotsiatsiya faoliyatiga hissa qo'shishlari, malakali mutaxassislarni jalb qilishni targ'ib qilishlari hamda Assotsiatsiyaning professional hamjamiyatini rivojlantirish uchun bilim va tajriba almashishlari kerak."
+        ]
+      },
+      {
+        "number": "VI",
+        "title": "Ixtisoslashtirilgan faoliyat sohalari",
+        "content": [
+          "Modda 15. Kasbiy faoliyat sohalari",
+          "O'z vazifasi va strategik maqsadlariga erishish uchun UzEuroLaw quyidagi sohalar bo'yicha, lekin ular bilan cheklanmagan holda, kasbiy faoliyatni faol rivojlantiradi: YeI–O'zbekiston transchegaraviy huquqiy amaliyot; Xalqaro tijorat arbitraji va nizolarni hal etish; Sudlov va protsessual hamkorlik; Korporativ, tijorat va investitsiya huquqi; Bank ishi, moliyaviy tartibga solish va muvofiqlik; Intellektual mulk va texnologiya huquqi; YeI huquqi, tartibga solish tizimlari va uyg'unlashtirish masalalari.",
+          "Assotsiatsiya shuningdek O'zbekiston va Yevropa Ittifoqi o'rtasidagi iqtisodiy, savdo va investitsiya munosabatlarini qo'llab-quvvatlovchi huquqiy bazalarni rivojlantirishga hissa qo'shishga qaratilgan ekspert va ilmiy-tadqiqot faoliyatini boshlashi mumkin.",
+          "Modda 16. Qo'mitalar va ishchi guruhlar",
+          "UzEuroLaw o'z faoliyatini bir necha asosiy yo'nalishlar bo'yicha, jumladan ixtisoslashtirilgan qo'mitalar tashkil etish orqali rivojlantiradi.",
+          "Arbitraj qo'mitasi transchegaraviy nizolarni hal etishning samarali mexanizmi sifatida xalqaro tijorat arbitrajini targ'ib qilish va rivojlantirishga yo'naltirilgan.",
+          "Sudlov qo'mitasi sud amaliyoti va turli yurisdiksiyalarning protsessual xususiyatlari sohasida kasbiy tajriba almashishni osonlashtiradi.",
+          "Korporativ huquq qo'mitasi korporativ bitimlar, qo'shilish va qo'shib olish masalalari hamda korporativ tartibga solishdagi yangi tendensiyalarni ko'rib chiqadi.",
+          "Bank va moliya huquqi qo'mitasi moliyaviy xizmatlar, bank tartibga solish va innovatsion moliyaviy vositalar bilan bog'liq masalalarni tahlil qiladi.",
+          "Intellektual mulk qo'mitasi xalqaro savdo va raqamli iqtisodiyotda intellektual mulk huquqlarini himoya qilish masalalariga e'tibor qaratadi.",
+          "Investitsiya huquqi qo'mitasi ikki tomonlama iqtisodiy hamkorlik doirasida investitsiyalarni jalb qilish va himoya qilishning huquqiy jihatlarini ko'rib chiqadi.",
+          "Qo'shimcha qo'mitalar professional hamjamiyatning rivojlanayotgan ehtiyojlari va Assotsiatsiya a'zolari tomonidan taqdim etilgan takliflarga muvofiq ta'sischilar qarori bilan tashkil etilishi mumkin.",
+          "Qo'mita faoliyatida ishtirok etish tegishli huquq sohalariga qiziqish bildirgan barcha To'liq va Assotsiatsiyalangan a'zolar uchun ochiq.",
+          "Qo'mita raislari Boshqaruv qo'mitasi tomonidan Assotsiatsiyaning eng malakali va tajribali a'zolari orasidan tayinlanadi. Qo'mitalar muntazam yig'ilishlar o'tkazadi va ixtisoslashtirilgan tadbirlar tashkil etadi, jumladan mavzuli seminarlar, vebinarlar, tahliliy materiallar tayyorlash va kasbiy tavsiyalar ishlab chiqish.",
+          "Qo'mitalar faoliyati shuningdek murakkab kasbiy masalalarni hal etishda yordam ko'rsatish va tegishli huquq sohalarida yetakchi xalqaro tashkilotlar bilan hamkorlikni rivojlantirishni o'z ichiga oladi."
+        ]
+      },
+      {
+        "number": "VII",
+        "title": "Tadbirlarni tashkil etish",
+        "content": [
+          "Modda 17. Tadbirlar shakllari va turlari",
+          "O'zbekiston-Yevropa Huquqiy Assotsiatsiyasi O'zbekiston va Yevropa Ittifoqi o'rtasidagi huquqiy hamkorlikni rivojlantirishga qaratilgan keng ko'lamli kasbiy, ta'lim va tarmoq tadbirlarini tashkil etadi va qo'llab-quvvatlaydi. Bunday tadbirlar qatoriga yillik flagman konferensiyalar, mavzuli forumlar, ekspert seminarlari va xalqaro va qiyosiy huquqiy amaliyotdagi dolzarb o'zgarishlarni ko'rib chiquvchi amaliy ustaxonalar kirishi mumkin.",
+          "Tadbirlar turli yurisdiksiyalardagi a'zolarning keng ishtirokini ta'minlash uchun yuzma-yuz, gibrid yoki virtual formatlarda o'tkazilishi mumkin.",
+          "Turli yurisdiksiyalardagi a'zolar uchun qulaylikni ta'minlash maqsadida vebinarlar va virtual davra suhbatlari kabi onlayn va gibrid formatlar faol qo'llaniladi. Yosh huquqshunoslar va boshlang'ich kasbiy mutaxassislarni qo'llab-quvvatlash uchun maxsus ta'lim tashabbuskori ishlab chiqilishi mumkin.",
+          "Tarmoq tadbirlari Assotsiatsiya ishining ajralmas qismi bo'lib, a'zolar uchrashuvlari, kasbiy qabullar, biznes nonushtalari va kasbiy aloqalar va tajriba almashishni rivojlantirishga mo'ljallangan norasmiy muhokama formatlari kirishi mumkin.",
+          "Assotsiatsiya shuningdek huquqiy hamjamiyatlar o'rtasida o'zaro tushunishni mustahkamlashga va turli huquqiy an'analar o'rtasidagi muloqotni targ'ib qilishga xizmat qiluvchi madaniy va fanlararo tadbirlarni tashkil etishi yoki qo'llab-quvvatlashi mumkin. Buning uchun hamkor tashkilotlar, akademik muassasalar va kasbiy assotsiatsiyalar bilan qo'shma tashabbuslar ko'rilishi mumkin.",
+          "UzEuroLaw tadbirlari O'zbekiston Respublikasida, Yevropa Ittifoqi a'zo davlatlarida yoki virtual formatda o'tkazilishi mumkin. Joy va formatlar tanlashda tadbirning maqsadlari, a'zolar uchun qulaylik va xalqaro ishtirok imkoniyatlari hisobga olinadi.",
+          "Modda 18. Ishtirok etish shartlari",
+          "Assotsiatsiya tomonidan tashkil etilgan yoki qo'llab-quvvatlangan tadbirlarda ishtirok etish ro'yxatga olish va sig'im cheklovlariga bog'liq bo'lishi mumkin. Ishtirok cheklangan hollarda ustuvorlik To'liq a'zolarga, so'ngra Assotsiatsiyalangan va Akademik a'zolarga, taklif etilgan ekspertlarga, faxriy ishtirokchilarga va maxsus ta'lim dasturlari ishtirokchilariga berilishi mumkin.",
+          "A'zolar va boshqa ishtirokchilar har bir tadbir uchun belgilangan tegishli ro'yxatga olish tartiblariga, muddatlariga va xulq-atvor qoidalariga rioya qilishlari kerak. Ishtirokchilardan kasbiy xulq-atvor standartlariga va, tegishli hollarda, UzEuroLaw faoliyatining kasbiy xususiyatini aks ettiruvchi kiyim-kechak qoidalariga rioya qilish kutiladi."
+        ]
+      },
+      {
+        "number": "VIII",
+        "title": "A'zolikni boshqarish",
+        "content": [
+          "Modda 19. Assotsiatsiya Kotibligi",
+          "UzEuroLaw Kotibligi ikki a'zodan iborat bo'lib, ular Boshqaruv qo'mitasi tomonidan ikki yil muddatga tayinlanadi. Kotiblik tarkibi Assotsiatsiyaning operatsion ehtiyojlariga muvofiq Boshqaruv qo'mitasi qarori bilan yangilanishi yoki o'zgartirilishi mumkin.",
+          "Kotiblik a'zolari Assotsiatsiyaning To'liq va Assotsiatsiyalangan a'zolari orasidan saylanadi.",
+          "UzEuroLaw Kotibligi barcha Assotsiatsiya a'zolarining yangilangan reestrini yuritadi, shaxsiy ma'lumotlarning aniqligi va maxfiyligini ta'minlaydi. A'zolar ro'yxati kasbiy o'zaro munosabat va tarmoq aloqalarini targ'ib qilish maqsadida ularning oldindan roziligiga binoan Assotsiatsiyaning rasmiy veb-saytida e'lon qilinishi mumkin.",
+          "Kotiblik a'zolarning aloqa ma'lumotlarini dolzarbligini ta'minlaydi va amaldagi shaxsiy ma'lumotlarni himoya qilish qonunchiligiga muvofiq shaxsiy ma'lumotlar himoyasini kafolatlaydi. Kasbiy tarmoq aloqalari uchun mo'ljallangan aloqa ma'lumotlari kasbiy va ishbilarmonlik aloqalarini kengaytirishni osonlashtirish uchun boshqa a'zolarga taqdim etilishi mumkin."
+        ]
+      },
+      {
+        "number": "IX",
+        "title": "Boshqaruv qo'mitasi va rahbariyat",
+        "content": [
+          "Modda 20. Boshqaruv qo'mitasining vakolatlari",
+          "Boshqaruv qo'mitasi O'zbekiston-Yevropa Huquqiy Assotsiatsiyasining oliy boshqaruv organi bo'lib, Assotsiatsiya ta'sischilari yoki Ustav bo'yicha tayinlangan boshqa shaxslardan tashkil topadi.",
+          "Boshqaruv qo'mitasi a'zolari Ustav yoki Boshqaruv qo'mitasi qarori bilan belgilangan muddatga xizmat qiladilar. Muddati tugagandan so'ng, mavjud a'zolarning vakolatlari uzaytirilishi yoki Assotsiatsiyaning To'liq a'zolari orasidan yangi a'zolar tayinlanishi mumkin.",
+          "Boshqaruv qo'mitasi Assotsiatsiyaning strategik yo'nalishi, boshqaruvi va menejmentiga umumiy mas'uliyatni amalga oshiradi va xususan quyidagi vakolatlarga ega: (a) Assotsiatsiya nomidan moliyaviy va boshqa majburiyatlarni o'z zimmasiga olish va Assotsiatsiya mablag'larini uning maqsadlariga muvofiq sarflash; (b) bank hisobvaraqlarini ochish va yuritish hamda Assotsiatsiyaning moliyaviy resurslarini boshqarish; (c) Assotsiatsiya nomidan shartnomalar va boshqa huquqiy majburiy bitimlar tuzish; (d) Assotsiatsiyaning to'g'ri ishlashi va rivojlanishi uchun oqilona zarur bo'lgan boshqa harakatlarni amalga oshirish.",
+          "Boshqaruv qo'mitasi qo'mita va ishchi guruhlar raislarini tayinlashi va maxsus vakolatlar hamda mas'uliyatlarni ushbu organlarga topshirishi mumkin, Boshqaruv qo'mitasiga to'g'ridan-to'g'ri tegishli masalalar, jumladan a'zolarni qabul qilish yoki chiqarish bo'yicha qarorlar bundan mustasno.",
+          "Boshqaruv qo'mitasi yig'ilishlari Assotsiatsiyani samarali boshqarish uchun zarur bo'lganda chaqiriladi. Ustav bilan boshqacha belgilanmagan bo'lsa, Boshqaruv qo'mitasi a'zolarining oddiy ko'pchiligi kvorumni tashkil etadi.",
+          "Boshqaruv qo'mitasi o'z a'zolaridan bir yoki bir nechtasiga Assotsiatsiyani davlat organlari, xalqaro tashkilotlar, kasbiy organlar va hamkor muassasalar bilan munosabatlarda vakillik qilish vakolatini berishi mumkin.",
+          "Xalqaro hamkorlar va manfaatdor tomonlar bilan hamkorlik Assotsiatsiyaning vazifasi, strategik maqsadlari va boshqaruv tamoyillariga muvofiqligini ta'minlash uchun Boshqaruv qo'mitasi nazorati ostida amalga oshiriladi.",
+          "UzEuroLaw Boshqaruv qo'mitasi to'rt ta'sischi a'zodan iborat bo'lib, ular yangi a'zolarni qabul qilish, a'zolik rivojlanish strategiyasini belgilash va Assotsiatsiya faoliyati davomida yuzaga keladigan har qanday nizolarni hal etish bo'yicha barcha yakuniy qarorlarni qabul qiladilar.",
+          "Boshqaruv qo'mitasi a'zolari besh yil muddatga saylanadi. Ushbu muddat tugagach, ketayotgan Boshqaruv qo'mitasi a'zolari To'liq a'zolar orasidan boshqa shaxslarni Boshqaruv qo'mitasiga tayinlashlari yoki o'z vakolatlarini keyingi muddat uchun uzaytirishi mumkin.",
+          "Bir yoki ikki ta'sischi UzEuroLaw ni davlat organlari, xalqaro tashkilotlar va hamkor assotsiatsiyalar bilan tashqi munosabatlarda vakillik qilish uchun maxsus vakolatli bo'lishi mumkin.",
+          "Xalqaro hamkorlar bilan muvofiqlashtirish barcha tashabbuslarning UzEuroLaw ning strategik rivojlanish maqsadlariga mos kelishini ta'minlash uchun Boshqaruv qo'mitasining bevosita nazorati ostida amalga oshiriladi."
+        ]
+      },
+      {
+        "number": "X",
+        "title": "A'zolikni tugatish",
+        "content": [
+          "Modda 21. A'zolikni tugatishning asoslari va shartlari",
+          "A'zolikni ixtiyoriy tugatish Assotsiatsiya Kotibligiga yozma ariza topshirish orqali amalga oshiriladi. A'zolik ariza qabul qilingan kundan boshlab tugatilgan hisoblanadi, agar unda boshqa kuchga kirish sanasi ko'rsatilmagan bo'lsa.",
+          "To'liq a'zo litsenziya bekor qilinishi yoki kasbiy reestrlardan chiqarilishi natijasida amaliyot yuritish huquqini yo'qotgan taqdirda a'zolik avtomatik ravishda tugatiladi. Kasbiy yoki axloqiy standartlarning jiddiy buzilishi ham a'zolikning avtomatik tugatilishiga olib kelishi mumkin.",
+          "UzEuroLaw faoliyatiga qiziqishning yo'qolishi, asosli sabablarsiz ketma-ket ikki yil davomida tashkil etilgan tadbirlarda ishtirok etmaslik orqali namoyon bo'lganda, Boshqaruv qo'mitasi qarori bilan a'zolikni tugatish uchun asos bo'lishi mumkin.",
+          "Assotsiatsiyadan chiqarish ushbu Nizom yoki UzEuroLaw Ustavining jiddiy buzilishi hamda a'zoning harakatlari Assotsiatsiya obro'siga sezilarli zarar yetkazgan hollarda qo'llaniladi. Bunday qarorlar barcha tegishli holatlarni sinchkovlik bilan o'rganganidan so'ng Boshqaruv qo'mitasining bir ovozdan qarori bilan qabul qilinadi.",
+          "Modda 22. Chiqarish tartibi va eshitilish huquqi",
+          "Chiqarish tartibi tegishli a'zoga yozma xabarnoma yuborish bilan boshlanadi, unda da'vo qilingan qoidabuzarliklar ko'rsatiladi va o'ttiz kun ichida yozma tushuntirishlar taqdim etish huquqi beriladi. Bunday tushuntirishlar olingandan so'ng yoki belgilangan muddat tugagandan keyin Boshqaruv qo'mitasi ish materiallarini ko'rib chiqadi va asoslangan qaror qabul qiladi.",
+          "Assotsiatsiyadan chiqarilgan a'zo qaror to'g'risidagi xabarnomani olgandan so'ng oltmish kun ichida apellyatsiya shikoyati berish huquqiga ega. Apellyatsiya Boshqaruv qo'mitasi tomonidan ko'rib chiqiladi, bunda huquqiy hamjamiyatning hurmatli vakillari orasidan mustaqil tashqi ekspertlar jalb etilishi mumkin."
+        ]
+      },
+      {
+        "number": "XI",
+        "title": "Moliyaviy masalalar",
+        "content": [
+          "Modda 23. A'zolik to'lovlari va moliyalashtirish tamoyillari",
+          "2026-yil boshidan 2026-yil oxirigacha bo'lgan davrda UzEuroLaw a'zoligi to'liq bepul asosda taqdim etiladi, kirish yoki yillik to'lovlarsiz. Assotsiatsiyaning asosiy tadbirlari barcha a'zolar uchun bepul o'tkaziladi, garchi quyidagi maxsus xizmatlar uchun nominal to'lovlar qo'llanilishi mumkin: bosma materiallar va atributika chiqarish, ustaxonalar yoki tarmoq qabullarida ishtirok etish, tashriflarni tashkil etish.",
+          "2027-yildan boshlab Boshqaruv qo'mitasi Assotsiatsiyaning moliyaviy ehtiyojlarini har tomonlama baholagandan so'ng tabaqalashtirilgan a'zolik to'lovlari tizimini joriy etishni ko'rib chiqishi mumkin. UzEuroLaw ning kasbiy rivojlanishni qo'llab-quvvatlash majburiyati doirasida yosh huquqshunoslar va Akademik a'zolar uchun imtiyozli shartlar belgilanishi mumkin.",
+          "Tadbirlarda qatnashishda transport va turar-joy uchun qo'shimcha xarajatlar maxsus dasturlar bilan boshqacha belgilanmagan bo'lsa, ishtirokchilar tomonidan o'zlari ko'tariladi.",
+          "Yuqori murakkablikdagi ixtisoslashtirilgan dasturlar qo'shimcha to'lovlarni jalb qilishi mumkin, bu haqda a'zolarga oldindan xabar beriladi. Nashrlar va materiallar Assotsiatsiyaning ishlab chiqarish va tarqatish xarajatlarini aks ettiruvchi narxda taqdim etiladi.",
+          "Modda 24. Xabarnoma tartibi",
+          "Barcha a'zolar a'zolik to'lovlarining joriy etilishi yoki mavjud moliyaviy shartlarning o'zgarishi to'g'risida ularning kuchga kirish sanasidan kamida oltmish (60) kalendar kun oldin tegishli ravishda xabardor qilinadi.",
+          "Xabarnoma UzEuroLaw ning rasmiy veb-saytida e'lon qilish va a'zolarga ularning ro'yxatga olingan elektron pochta manzillari orqali to'g'ridan-to'g'ri elektron xabar yuborish yo'li bilan amalga oshiriladi.",
+          "Xabarnomada to'lovlar tuzilmasi va miqdori, qo'llaniladigan toifalar, to'lov usullari, muddatlari va ma'lum a'zolar guruhlari uchun belgilangan imtiyozli shartlar to'g'risida batafsil ma'lumot ko'rsatilishi kerak.",
+          "A'zolar xuddi shu oltmish (60) kunlik muddat ichida Kotiblikka sharhlar, so'rovlar yoki tushuntirish so'rovlarini taqdim etish huquqiga ega, ular amalga oshirishdan oldin Boshqaruv qo'mitasi tomonidan tegishli ravishda ko'rib chiqiladi.",
+          "A'zoning xabarnoma davri ichida e'tiroz bildirmasligi yoki a'zolikni tugatmasligi qayta ko'rib chiqilgan moliyaviy shartlarni qabul qilish sifatida qabul qilinadi."
+        ]
+      },
+      {
+        "number": "XII",
+        "title": "Yakuniy qoidalar",
+        "content": [
+          "Modda 25. O'zgartirish kiritish tartibi",
+          "Ushbu Nizomga o'zgartirish va qo'shimchalar faqat Boshqaruv qo'mitasining to'rt ta'sischi a'zodan kamida uchining ijobiy ovozi bilan qabul qilinadi.",
+          "A'zolarning asosiy huquq va majburiyatlariga ta'sir qiluvchi muhim o'zgartirishlar kuchga kirishidan kamida o'ttiz kun oldin barcha a'zolarga oldindan xabar berilishini talab qiladi.",
+          "Barcha o'zgartirish va qo'shimchalar Boshqaruv qo'mitasi qarorida boshqa kuchga kirish sanasi ko'rsatilmagan bo'lsa, UzEuroLaw ning rasmiy veb-saytida e'lon qilingan paytdan boshlab kuchga kiradi.",
+          "Modda 26. O'tish va talqin qoidalari",
+          "Boshqaruv qo'mitasi a'zolari ushbu Nizom qabul qilinishi bilan standart ariza topshirish tartibidan o'tmasdan avtomatik ravishda To'liq a'zo maqomini oladilar. Ushbu Nizom qabul qilinishidan oldin topshirilgan barcha a'zolik arizalari belgilangan talablar va tartibga qat'iy muvofiq ko'rib chiqiladi.",
+          "Ushbu Nizom o'zgartirilgunga yoki UzEuroLaw faoliyati va a'zolik masalalarini tartibga soluvchi yangi hujjat bilan almashtirilgunga qadar amalda qoladi. Ushbu Nizomning talqini bilan bog'liq barcha masalalar Assotsiatsiya maqsadlariga erishish va xalqaro huquqiy hamkorlikni rivojlantirish ruhida Boshqaruv qo'mitasi tomonidan hal qilinadi.",
+          "Modda 27. Shaxsiy ma'lumotlarni himoya qilish va maxfiylik",
+          "Assotsiatsiya a'zolarning shaxsiy ma'lumotlarini amaldagi shaxsiy ma'lumotlarni himoya qilish qonunchiligiga, jumladan Umumiy ma'lumotlarni himoya qilish reglamenti (GDPR) va tegishli milliy qonunlarga muvofiq qayta ishlaydi.",
+          "Shaxsiy ma'lumotlar faqat a'zolikni boshqarish, tadbirlarni tashkil etish, kasbiy muloqot va Assotsiatsiyaning qonuniy faoliyatiga tegishli maqsadlarda yig'iladi va qayta ishlanadi.",
+          "A'zolar amaldagi qonunchilikka muvofiq o'z shaxsiy ma'lumotlariga kirish, tuzatish, cheklash yoki o'chirishni so'rash huquqiga ega.",
+          "Assotsiatsiyaning vaqti-vaqti bilan qabul qilinadigan va o'zgartiriladigan Maxfiylik siyosati ushbu A'zolik nizomining ajralmas qismi hisoblanadi.",
+          "Modda 28. Javobgarlikni cheklash",
+          "Qonun ruxsat bergan to'liq darajada, Assotsiatsiya a'zolik yoki uning faoliyatida ishtirok etishdan kelib chiqadigan har qanday bilvosita, oqibatli yoki maxsus yo'qotish yoki zararlar uchun javobgar bo'lmaydi.",
+          "Ushbu A'zolik nizomidagi hech narsa quyidagilar uchun javobgarlikni istisno qilmaydi yoki cheklamaydi: (a) beparvolik natijasida hayot yoki sog'liqqa yetkazilgan zarar; (b) firibgarlik yoki firibgarlik orqali noto'g'ri ma'lumot berish; yoki (c) qonuniy ravishda istisno qilinishi yoki cheklanishi mumkin bo'lmagan har qanday javobgarlik.",
+          "Assotsiatsiyaning har qanday a'zo oldidagi umumiy javobgarligi, shartnoma, delikt (jumladan beparvolik) yoki boshqa asoslarda, quyidagilarning kattaroqidan oshmasligi kerak: (a) ushbu a'zo tomonidan oldingi 12 oy ichida to'langan a'zolik to'lovlarining umumiy summasi yoki (b) Assotsiatsiya tomonidan saqlanadigan tegishli sug'urta polisi bo'yicha undirilishi mumkin bo'lgan summa.",
+          "Modda 29. Fors-major",
+          "Assotsiatsiya oqilona nazorat doirasidan tashqaridagi har qanday sabab, jumladan (cheklanmagan holda) tabiiy ofatlar, suv toshqini, qurg'oqchilik, zilzila, epidemiya yoki pandemiya, urush, terrorizm, sanoat nizolari, qonunga rioya qilish yoki elektr ta'minoti, telekommunikatsiya, internet aloqasi, ma'lumotlar tarmoqlari yoki elektron tizimlarning ishdan chiqishi, jumladan kiberhujum yoki tizim uzilishi natijasida o'z majburiyatlarini bajarishda kechikish yoki bajarmaslik uchun javobgar bo'lmaydi, shart bilan Assotsiatsiya: (a) bunday hodisaning oldini olish yoki ta'sirini kamaytirishni oqilona tarzda amalga oshira olmagan bo'lsin; va (b) oqilona darajada tezroq bajarishni qayta boshlash uchun barcha oqilona sa'y-harakatlarni ko'rgan bo'lsin.",
+          "Modda 30. Nizolarni hal etish",
+          "A'zolar va Assotsiatsiya ushbu A'zolik nizomidan kelib chiqadigan yoki u bilan bog'liq har qanday nizolar yoki kelishmovchiliklarni yaxshi niyatdagi muloqot va do'stona hal etish orqali hal qilishga intilishlari kerak.",
+          "Do'stona hal etishga erishilmagan taqdirda, Boshqaruv qo'mitasi Assotsiatsiyaning xalqaro xususiyatini hisobga olgan holda, vositachilik yoki boshqa muqobil nizolarni hal etish mexanizmlarini o'z ichiga olgan tegishli nizolarni hal etish usulini belgilashi mumkin.",
+          "Modda 31. Qo'llaniladigan huquq va til",
+          "Ushbu A'zolik nizomi Assotsiatsiyaning Ustavi va ro'yxatga olingan joyiga muvofiq Assotsiatsiyaga tegishli qonunchilik bo'yicha boshqariladi va talqin qilinadi.",
+          "Ushbu A'zolik nizomi bir necha tillarda chiqarilishi mumkin. Biror noaniqlik yuzaga kelgan taqdirda, ingliz tilidagi versiya ustunlik qiladi. Boshqa tillar mos ravishda axborot yoki talqin maqsadlarida ishlatilishi mumkin.",
+          "Modda 32. Strategik rivojlanish",
+          "Boshqaruv qo'mitasi Assotsiatsiyaning rivojlanishi, jumladan a'zolikning o'sishi, geografik qamrovi va mavzuiy kengayishi UzEuroLaw ning vazifasi, ko'zlagan maqsadi va uzoq muddatli strategik maqsadlariga mos kelishini ta'minlaydi."
+        ]
+      }
+    ]
+  },
+  "form": {
+    "steps": {
+      "personalInfo": "Shaxsiy ma'lumot",
+      "professional": "Kasb",
+      "specialization": "Ixtisoslik",
+      "review": "Tekshirish"
+    },
+    "personalInformation": "Shaxsiy ma'lumotlar",
+    "firstName": "Ism",
+    "lastName": "Familiya",
+    "firstNamePlaceholder": "Ism",
+    "lastNamePlaceholder": "Familiya",
+    "emailPlaceholder": "email@example.com",
+    "phonePlaceholder": "+998 XX XXX XX XX",
+    "country": "Davlat",
+    "selectCountry": "Davlatingizni tanlang",
+    "professionalBackground": "Kasbiy tajriba",
+    "organization": "Tashkilot / Firma",
+    "organizationPlaceholder": "Yuridik firma / Universitet",
+    "jobTitle": "Lavozim",
+    "jobTitlePlaceholder": "Katta sherik / Professor",
+    "experience": "Ish tajribasi",
+    "selectExperience": "Tajriba darajasini tanlang",
+    "experienceOptions": {
+      "0-2": "0-2 yil",
+      "3-5": "3-5 yil",
+      "6-10": "6-10 yil",
+      "11-15": "11-15 yil",
+      "15+": "15+ yil"
+    },
+    "areasOfSpecialization": "Ixtisoslik sohalari",
+    "selectAreasHint": "Amaliyotingizga tegishli barcha sohalarni tanlang (maks. 5)",
+    "whyJoin": "Nima uchun UZEURO ga a'zo bo'lmoqchisiz?",
+    "whyJoinPlaceholder": "YeI-O'zbekiston huquqiy hamkorligiga bo'lgan qiziqishingiz haqida gapirib bering...",
+    "reviewApplication": "Arizangizni tekshiring",
+    "name": "Ism",
+    "email": "Elektron pochta",
+    "organizationLabel": "Tashkilot",
+    "position": "Lavozim",
+    "specializations": "Ixtisosliklar",
+    "notSpecified": "Ko'rsatilmagan",
+    "noneSelected": "Tanlanmagan",
+    "selectedTier": "Tanlangan toifa",
+    "termsAgreement": "Arizani yuborish orqali siz Foydalanish shartlari va Maxfiylik siyosatiga rozilik bildirasiz.",
+    "submitApplication": "Ariza topshirish",
+    "submitted": {
+      "title": "Ariza yuborildi!",
+      "description": "UZEURO ga qiziqishingiz uchun rahmat. Biz arizangizni ko'rib chiqamiz va 5 ish kuni ichida javob beramiz."
+    }
+  },
+  "specializations": {
+    "internationalLaw": "Xalqaro huquq",
+    "euLaw": "YeI huquqi",
+    "corporateLaw": "Korporativ huquq",
+    "commercialArbitration": "Tijorat arbitraji",
+    "intellectualProperty": "Intellektual mulk",
+    "dataProtection": "Ma'lumotlarni himoyalash",
+    "energy": "Energetika va tabiiy resurslar",
+    "banking": "Bank ishi va moliya",
+    "taxLaw": "Soliq huquqi",
+    "labor": "Mehnat huquqi",
+    "realEstate": "Ko'chmas mulk",
+    "criminalLaw": "Jinoyat huquqi",
+    "humanRights": "Inson huquqlari",
+    "environmentalLaw": "Ekologik huquq",
+    "other": "Boshqa"
+  }
+}
