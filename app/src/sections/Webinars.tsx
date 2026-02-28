@@ -4,48 +4,55 @@ import { ScrollTrigger } from 'gsap/ScrollTrigger';
 import { Link } from 'react-router-dom';
 import { Play, Clock, User, ArrowRight } from 'lucide-react';
 import { useTranslation } from 'react-i18next';
+import { webinarsApi } from '../services/api';
 
 gsap.registerPlugin(ScrollTrigger);
 
-const webinars = [
-  {
-    id: 1,
-    title: 'GDPR Compliance for Uzbek Businesses',
-    speaker: 'UzEuroLaw Expert',
-    date: 'Coming Soon',
-    duration: '90 min',
-    track: 'professional',
-    image: '/webinar-gdpr.jpg',
-    featured: true,
-  },
-  {
-    id: 2,
-    title: 'International Arbitration Best Practices',
-    speaker: 'UzEuroLaw Expert',
-    date: 'Coming Soon',
-    duration: '60 min',
-    track: 'academic',
-    image: '/webinar-arbitration.jpg',
-    featured: false,
-  },
-  {
-    id: 3,
-    title: 'EU Digital Services Act Explained',
-    speaker: 'UzEuroLaw Expert',
-    date: 'Coming Soon',
-    duration: '75 min',
-    track: 'professional',
-    image: '/webinar-digital.jpg',
-    featured: false,
-  },
-];
+interface WebinarItem {
+  id: number;
+  title: string;
+  speaker: string;
+  date: string;
+  duration: string;
+  track: string;
+  image: string;
+  featured: boolean;
+}
 
 export default function Webinars() {
   const { t } = useTranslation(['home', 'common']);
   const sectionRef = useRef<HTMLDivElement>(null);
   const headerRef = useRef<HTMLDivElement>(null);
   const cardsRef = useRef<HTMLDivElement>(null);
+  const [webinars, setWebinars] = useState<WebinarItem[]>([]);
   const [activeTrack, setActiveTrack] = useState<'all' | 'academic' | 'professional'>('all');
+
+  useEffect(() => {
+    (async () => {
+      try {
+        const apiWebinars = await webinarsApi.getAll() as Array<{
+          id: number; title: string; speaker?: string; webinar_date?: string;
+          duration?: string; track?: string; image_url?: string; status?: string;
+        }>;
+        if (apiWebinars && Array.isArray(apiWebinars) && apiWebinars.length > 0) {
+          const active = apiWebinars
+            .filter(w => w.status !== 'draft')
+            .slice(0, 6)
+            .map(w => ({
+              id: w.id,
+              title: w.title,
+              speaker: w.speaker || 'UzEuroLaw Expert',
+              date: w.webinar_date || '',
+              duration: w.duration || '',
+              track: w.track || 'professional',
+              image: w.image_url || '/webinar-gdpr.jpg',
+              featured: false,
+            }));
+          setWebinars(active);
+        }
+      } catch { /* no webinars available */ }
+    })();
+  }, []);
 
   const filteredWebinars = activeTrack === 'all'
     ? webinars
@@ -94,6 +101,8 @@ export default function Webinars() {
 
     return () => ctx.revert();
   }, []);
+
+  if (webinars.length === 0) return null;
 
   return (
     <section

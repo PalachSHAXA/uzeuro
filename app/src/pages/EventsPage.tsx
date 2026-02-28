@@ -7,44 +7,6 @@ import { eventsApi, registerForEvent } from '../services/api';
 
 gsap.registerPlugin(ScrollTrigger);
 
-const staticEvents = [
-  {
-    id: 1, title: 'Tashkent Legal Forum 2025', event_date: '2025-09-15', event_time: '09:00',
-    location: 'Tashkent, Uzbekistan', type: 'Conference', format: 'in-person',
-    description: 'Annual gathering of legal professionals from Uzbekistan and EU member states to discuss cross-border legal cooperation.',
-    image_url: '/event-forum.jpg', status: 'active', gallery: '[]', summary: '',
-  },
-  {
-    id: 2, title: 'EU-Uzbekistan Legal Bridge', event_date: '2025-10-22', event_time: '14:00',
-    location: 'Brussels, Belgium', type: 'Seminar', format: 'in-person',
-    description: 'Intensive seminar on harmonizing legal frameworks between the EU and Uzbekistan.',
-    image_url: '/event-handshake.jpg', status: 'active', gallery: '[]', summary: '',
-  },
-  {
-    id: 3, title: 'Digital Law Symposium', event_date: '2025-11-08', event_time: '10:00',
-    location: 'Online', type: 'Webinar', format: 'online',
-    description: 'Exploring digital transformation in legal practice and regulatory frameworks.',
-    image_url: '/event-webinar.jpg', status: 'active', gallery: '[]', summary: '',
-  },
-  {
-    id: 4, title: 'International Arbitration Workshop', event_date: '2025-11-25', event_time: '09:30',
-    location: 'Tashkent, Uzbekistan', type: 'Workshop', format: 'in-person',
-    description: 'Hands-on workshop covering best practices in international commercial arbitration.',
-    image_url: '/webinar-arbitration.jpg', status: 'active', gallery: '[]', summary: '',
-  },
-  {
-    id: 5, title: 'GDPR Compliance for Uzbek Businesses', event_date: '2025-12-10', event_time: '15:00',
-    location: 'Online', type: 'Webinar', format: 'online',
-    description: 'Practical guidance on EU data protection regulations for Uzbek companies.',
-    image_url: '/webinar-gdpr.jpg', status: 'active', gallery: '[]', summary: '',
-  },
-  {
-    id: 6, title: 'Annual General Meeting', event_date: '2025-12-18', event_time: '11:00',
-    location: 'Hybrid (Tashkent + Online)', type: 'Meeting', format: 'in-person',
-    description: 'Annual meeting of UZEURO members to review achievements and plan for the coming year.',
-    image_url: '/about-office.jpg', status: 'active', gallery: '[]', summary: '',
-  },
-];
 
 interface EventItem {
   id: number; title: string; event_date: string; event_time: string;
@@ -68,7 +30,7 @@ export default function EventsPage() {
   const [activeFilter, setActiveFilter] = useState('all');
   const [selectedTypes, setSelectedTypes] = useState<string[]>([]);
   const [showFilters, setShowFilters] = useState(false);
-  const [events, setEvents] = useState<EventItem[]>(staticEvents);
+  const [events, setEvents] = useState<EventItem[]>([]);
   const [galleryEvent, setGalleryEvent] = useState<EventItem | null>(null);
   const [lightboxPhoto, setLightboxPhoto] = useState<string | null>(null);
   const [regForm, setRegForm] = useState({ name: '', email: '', phone: '', citizenship: '', telegram: '' });
@@ -81,10 +43,10 @@ export default function EventsPage() {
     (async () => {
       try {
         const apiEvents = await eventsApi.getAll() as EventItem[];
-        if (apiEvents && apiEvents.length > 0) {
+        if (apiEvents && Array.isArray(apiEvents)) {
           setEvents(apiEvents.filter(e => e.status !== 'draft'));
         }
-      } catch { /* use static data */ }
+      } catch { /* no events */ }
     })();
   }, []);
 

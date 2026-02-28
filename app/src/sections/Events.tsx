@@ -45,14 +45,7 @@ export default function Events() {
             return;
           }
         }
-      } catch { /* fallback to demo */ }
-      // Fallback: demo items from locale
-      const demoItems = t('events.demoItems', { returnObjects: true }) as Array<{
-        title: string; date: string; location: string; type: string;
-      }>;
-      if (Array.isArray(demoItems)) {
-        setEvents(demoItems.map((item, i) => ({ ...item, id: i + 1, image: fallbackImages[i] })));
-      }
+      } catch { /* no events available */ }
     })();
   }, [t]);
 
